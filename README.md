@@ -9,3 +9,7 @@ ____
 - [Python](https://www.python.org/) 3.x
 - library matplotlib
 - modool pyplot
+____
+## :on: Running
+$ python rp_visual.py
+
